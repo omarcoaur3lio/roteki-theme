@@ -1,8 +1,18 @@
 {
     "name": "roteki-theme",
-    "displayName": "roteki-theme",
+    "author": "Marco Aurélio <marcoaurelio_7@outlook.com>",
+    "displayName": "Roteki Theme",
     "description": "A minimalist dark theme with shades of blue and green",
+    "license": "MIT",   
     "version": "0.0.1",
+    "icon": "logo.png",
+    "keywords": [
+        "theme",
+        "dark",
+        "blue",
+        "roteki",
+        "minimalist"
+    ],
     "engines": {
         "vscode": "^1.52.0"
     },

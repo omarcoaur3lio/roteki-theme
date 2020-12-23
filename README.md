@@ -1,13 +1,21 @@
-# README
-## This is the README for your extension "roteki-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align="center">
+    <img alt="roteki banner" src="https://i.imgur.com/7prR7lF.png">
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+---
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<p align="center">
+  <img alt="preview" src="https://i.imgur.com/zGsLgJz.png" width="90%">
+</p>
 
-**Enjoy!**
+## 🔥 Installation
+1. Open the **Extensions** sidebar in VS Code
+2. Search for `Roteki Theme`
+3. Click **Install**
+4. Open the **Command Palette** with `Ctrl+Shift+P` or `⌘+Shift+P`
+5. Select **Preferences: Color Theme** and choose a Roteki Theme.
+6. Enjoy! 🎉 
+---
+### 📄 License
+
+[MIT](LICENSE) © [Marco Aurélio](https://github.com/omarcoaur3lio)
