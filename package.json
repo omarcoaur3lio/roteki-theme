@@ -1,0 +1,21 @@
+{
+    "name": "roteki-theme",
+    "displayName": "roteki-theme",
+    "description": "A minimalist dark theme with shades of blue and green",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Roteki Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Roteki Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
