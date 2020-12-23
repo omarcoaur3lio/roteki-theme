@@ -1,6 +1,7 @@
 {
     "name": "roteki-theme",
     "author": "Marco Aurélio <marcoaurelio_7@outlook.com>",
+    "publisher": "omarcoaur3lio",
     "displayName": "Roteki Theme",
     "description": "A minimalist dark theme with shades of blue and green",
     "license": "MIT",   
@@ -13,6 +14,13 @@
         "roteki",
         "minimalist"
     ],
+    "repository": {
+        "url": "https://github.com/omarcoaur3lio/roteki-theme"
+    },
+    "homepage": "https://github.com/omarcoaur3lio/roteki-theme",
+    "bugs": {
+        "url": "https://github.com/omarcoaur3lio/roteki-theme/issues"
+    },
     "engines": {
         "vscode": "^1.52.0"
     },
