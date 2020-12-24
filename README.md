@@ -42,7 +42,7 @@
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⌘+Shift+P`
 5. Select **Preferences: Color Theme** and choose a Roteki Theme.
 6. Enjoy! 🎉 
-&nbsp;&nbsp;&nbsp;
+
 ## :star: My favorite extensions
 Some extensions I use, besides (of course) the great native extensions of vscode :sweat_smile:
 - [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
@@ -53,7 +53,7 @@ Some extensions I use, besides (of course) the great native extensions of vscode
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver)
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=shan.code-settings-sync)
-&nbsp;&nbsp;&nbsp;
+
 ### :page_facing_up: License
 
 [MIT](LICENSE) © [Marco Aurélio](https://github.com/omarcoaur3lio)
