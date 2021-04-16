@@ -628,6 +628,14 @@
 		}
 	  },
 	  {
+		"name": "HTML: Override and reset to defaults",
+		"scope": "entity.name.tag.html",
+		"settings": {
+		  "fontStyle": "bold",
+		  "foreground": "#a2ca34"
+		}
+	  },
+	  {
 		"name": "CSS: Override and reset to defaults",
 		"scope": [
 		  "punctuation.definition.entity.css",
