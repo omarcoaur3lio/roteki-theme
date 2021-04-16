@@ -411,6 +411,7 @@
 		  "foreground": "#a2ca34"
 		}
 	  },
+
 	  {
 		"scope": "variable.parameter",
 		"settings": {
@@ -525,6 +526,22 @@
 		  "foreground": "#32c9e4"
 		}
 	  },
+
+	  {
+		"name": "C: function names",
+		"scope": "entity.name.function.c",
+		"settings": {
+			"foreground": "#a2ca34"
+		},
+	  },
+
+	  {
+		"name": "C: function call pontuation",
+		"scope": "meta.function-call.c",
+		"settings": {
+		  "foreground": "#ced9df"
+		}
+	  },
 	  {
 		"name": "JSON: Override and reset to defaults",
 		"scope": "support.type.property-name.json",
@@ -621,6 +638,18 @@
 		  "foreground": "#a7adba"
 		}
 	  },
+	  {
+		"scope": [
+		  "support.function.transform.css",
+		  "support.function.url.css",
+		  "support.function.misc.css",
+		  "meta.function.variable.css"
+		],
+		"settings": {
+		  "foreground": "#9cd3ec"
+		}
+	  },	  
+
 	  {
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
