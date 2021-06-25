@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="roteki banner" src="https://i.imgur.com/gvhoBjj.png">
+    <img alt="roteki banner" src="./.github/banner.png">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## :gem: Preview
 <p align="center">
-  <img alt="preview" src="https://i.imgur.com/zGsLgJz.png" width="70%">
+  <img alt="preview" src="./.github/preview.png" width="70%">
 </p>
 
 *PS: The font used is the [SF Pro Text](https://developer.apple.com/fonts/)*
