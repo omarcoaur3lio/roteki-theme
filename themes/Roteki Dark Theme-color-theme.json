@@ -588,7 +588,7 @@
 			}
 		},
 		{
-			"name": "JSX: Edge cases (foreground color resets)",
+			"name": "TSX: Edge cases (foreground color resets)",
 			"scope": [
 				"entity.name.tag.tsx",
 			],
@@ -597,6 +597,27 @@
 				"foreground": "#88bb10"
 			}
 		},
+		{
+            "name": "JSX tags",
+            "scope": [
+                "entity.name.tag"
+            ],
+            "settings": {
+				"fontStyle": "",
+                "foreground": "#a2ca34"
+            }
+        },
+        {
+            "name": "For JSX",
+            "scope": [
+                "punctuation.section.embedded.begin.jsx",
+                "punctuation.section.embedded.end.jsx",
+				"entity.name.tag.tsx",
+            ],
+            "settings": {
+                "foreground": "#88bb10"
+            }
+        },
 		{
 			"name": "Groovy: emphasize constant variables",
 			"scope": "constant.other.groovy",
