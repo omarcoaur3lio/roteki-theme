@@ -18,6 +18,10 @@
     <img alt="Rating" src="https://img.shields.io/visual-studio-marketplace/stars/omarcoaur3lio.roteki-theme?maxAge=86400&style=for-the-badge&labelColor=090C0D&color=4BE1E6">
   </a>
 
+  ## :speech_balloon: About
+
+  My simple dark theme for VS Code.
+
 ## :camera: Preview
 <p align="center">
   <img alt="preview" src="./.github/preview.png" width="80%">
